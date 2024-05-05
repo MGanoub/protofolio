@@ -78402,9 +78402,9 @@ $.ahd=0
 $.ayk=A.a([null,B.xa,B.x1,B.x2,B.x3,B.x4,B.x5,B.x6,B.jb,B.x7,B.x8,B.x9,B.xb,B.jc,B.xc,B.xd,B.ja,null],A.a6("o<cn?>"))
 $.as6=A.x(t.S,A.a6("dq"))
 $.ab4=function(){var s=t.N,r=t.z
-return A.a([A.aw(["skill","Dart","imagePath","assets/skillIcons/dart.png"],s,r),A.aw(["skill","Flutter","imagePath","assets/skillIcons/flutter.png"],s,r),A.aw(["skill","C++","imagePath","assets/skillIcons/c++.png"],s,r),A.aw(["skill","Python","imagePath","assets/skillIcons/python.png"],s,r),A.aw(["skill","Qt","imagePath","assets/skillIcons/qt.png"],s,r),A.aw(["skill","Git","imagePath","assets/skillIcons/git.png"],s,r),A.aw(["skill","Agile","imagePath","assets/skillIcons/agile.png"],s,r),A.aw(["skill","Jira","imagePath","assets/skillIcons/jira.jpg"],s,r),A.aw(["skill","Bitbucket","imagePath","assets/skillIcons/bitbucket.png"],s,r),A.aw(["skill","Office","imagePath","assets/skillIcons/office.png"],s,r)],t.gG)}()
+return A.a([A.aw(["skill","Dart","imagePath","assets/images/dart.png"],s,r),A.aw(["skill","Flutter","imagePath","assets/images/flutter.png"],s,r),A.aw(["skill","C++","imagePath","assets/images/c++.png"],s,r),A.aw(["skill","Python","imagePath","assets/images/python.png"],s,r),A.aw(["skill","Qt","imagePath","assets/images/qt.png"],s,r),A.aw(["skill","Git","imagePath","assets/images/git.png"],s,r),A.aw(["skill","Agile","imagePath","assets/images/agile.png"],s,r),A.aw(["skill","Jira","imagePath","assets/images/jira.jpg"],s,r),A.aw(["skill","Bitbucket","imagePath","assets/images/bitbucket.png"],s,r),A.aw(["skill","Office","imagePath","assets/images/office.png"],s,r)],t.gG)}()
 $.Zx=function(){var s=t.N,r=t.z
-return A.a([A.aw(["skill","Android Dev","imagePath","assets/skillIcons/android.png"],s,r),A.aw(["skill","IOS Dev","imagePath","assets/skillIcons/ios.png"],s,r),A.aw(["skill","Web Dev","imagePath","assets/skillIcons/web.png"],s,r),A.aw(["skill","Desktop Dev","imagePath","assets/skillIcons/desktop.png"],s,r)],t.gG)}()
+return A.a([A.aw(["skill","Android Dev","imagePath","assets/images/android.png"],s,r),A.aw(["skill","IOS Dev","imagePath","assets/images/ios.png"],s,r),A.aw(["skill","Web Dev","imagePath","assets/images/web.png"],s,r),A.aw(["skill","Desktop Dev","imagePath","assets/images/desktop.png"],s,r)],t.gG)}()
 $.ahx=null
 $.ahv=null
 $.ahw=null})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
