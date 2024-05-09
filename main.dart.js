@@ -81663,7 +81663,7 @@ $0(){this.a.c.$1(3)},
 $S:0}
 A.Ke.prototype={
 K(a){var s=null,r=t.p
-return A.dX(A.b([A.c5("Creative Projects",s,s,s,A.bG(s,s,B.Y,s,s,s,s,s,s,s,s,28,s,s,B.af,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.bA(s,40,s,s),A.dX(A.b([new A.bA(10,s,s,s),new A.dY(B.kW,A.tn(B.ce,A.b([new A.kZ("assets/images/website.webm","Personal Website",s),new A.kZ("assets/images/tamara.mp4","ARROW Dating app",s),new A.kZ("assets/images/airbnbClone.mp4","AirCnC Vacation booking app",s)],r)),s)],r),B.O,B.bk,B.L)],r),B.O,B.az,B.L)}}
+return A.dX(A.b([A.c5("Creative Projects",s,s,s,A.bG(s,s,B.Y,s,s,s,s,s,s,s,s,28,s,s,B.af,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.bA(s,40,s,s),A.dX(A.b([new A.bA(10,s,s,s),new A.dY(B.kW,A.tn(B.ce,A.b([new A.kZ("assets/images/website.webm","Personal Website",s),new A.kZ("assets/images/tamara.webm","ARROW Dating app",s),new A.kZ("assets/images/airbnbClone.webm","AirCnC Vacation booking app",s)],r)),s)],r),B.O,B.bk,B.L)],r),B.O,B.az,B.L)}}
 A.Kd.prototype={
 K(a){var s=null,r=t.p
 return A.dX(A.b([A.c5("Creative Projects",s,s,s,A.bG(s,s,B.Y,s,s,s,s,s,s,s,s,28,s,s,B.af,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.bA(s,40,s,s),A.fK(A.b([new A.bA(10,s,s,s),new A.dY(B.kW,A.tn(B.ce,A.b([new A.kZ("assets/images/website.webm","Personal Website",s),new A.kZ("assets/images/tamara.webm","ARROW Dating app",s),new A.kZ("assets/images/airbnbClone.webm","AirCnC Vacation booking app",s)],r)),s)],r),B.O,B.bk,B.L)],r),B.O,B.az,B.L)}}
