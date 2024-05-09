@@ -13,6 +13,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "705a1affdee3f71a2d960eb849f9f475
 "assets/assets/fonts/MajorMonoDisplay-Regular.ttf": "e7acc228230d22332855765872b0a3bf",
 "assets/assets/fonts/NotoSerifDisplay.ttf": "d682a64c938af0d4eb33f18bea94af5e",
 "assets/assets/images/agile.png": "0c9bf67d44296717e34cc8c76fa22f17",
+"assets/assets/images/airbnbClone.mp4": "895f00ff80ca838f09c05de51bb16478",
 "assets/assets/images/airbnbClone.webm": "e6d2dc1f5da492d8cc4da49806ac014b",
 "assets/assets/images/android.png": "d60a8731aec7ab6487df7b077a634e18",
 "assets/assets/images/bitbucket.png": "9e8164e2fcfb93dd2c3957460d3d2632",
@@ -34,6 +35,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "705a1affdee3f71a2d960eb849f9f475
 "assets/assets/images/profile-pic.png": "9d301349cfb76a1748a1cd398f2e9087",
 "assets/assets/images/python.png": "b14f5c26314da87b188696cc228b6e75",
 "assets/assets/images/qt.png": "2ae857f228ef4511942a51e8e184bdaf",
+"assets/assets/images/tamara.mp4": "5a2dd992e28893c977f5a9517930454e",
 "assets/assets/images/tamara.webm": "817d89c59e2e00b1518bef14d932ed10",
 "assets/assets/images/web.png": "53a1d45198f240e5d1837b248b05c317",
 "assets/assets/images/website.webm": "9c57d749ced16783af5a91fcee64b014",
@@ -58,9 +60,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "705a1affdee3f71a2d960eb849f9f475
 "icons/Icon-512.png": "ec845a56c316b55bddf2b1f29915f159",
 "icons/Icon-maskable-192.png": "e05c89961034c7653ed3a3e6ffd81bf8",
 "icons/Icon-maskable-512.png": "ec845a56c316b55bddf2b1f29915f159",
-"index.html": "d1ac96e3dfe6fb61e99c408f4481e2dd",
-"/": "d1ac96e3dfe6fb61e99c408f4481e2dd",
-"main.dart.js": "4236cc1d9395bca42c23c12b60f14f55",
+"index.html": "8adf6ea7e1a26c34a57e2e085bbb15e1",
+"/": "8adf6ea7e1a26c34a57e2e085bbb15e1",
+"main.dart.js": "1d5c7d1206861d1b9ed9bb282c5abe07",
 "manifest.json": "5806a7cb47ff7d3270bf87e77af8470c",
 "version.json": "08d0c7dcffe48b513f17d00e025db4fa"};
 // The application shell files that are downloaded before a service worker can
